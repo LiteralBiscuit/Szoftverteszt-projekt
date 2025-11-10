@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Suti\\source\\repos\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Suli\\Code\\C#\\Szoftverteszt-projekt\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{403CA85B-A225-4576-9377-0CE71C80878D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\suti\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{403CA85B-A225-4576-9377-0CE71C80878D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\suli\\code\\c#\\szoftverteszt-projekt\\consoleapp1\\consoleapp1\\mautofunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403CA85B-A225-4576-9377-0CE71C80878D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\mautofunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403CA85B-A225-4576-9377-0CE71C80878D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\suli\\code\\c#\\szoftverteszt-projekt\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{403CA85B-A225-4576-9377-0CE71C80878D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{403CA85B-A225-4576-9377-0CE71C80878D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\suti\\source\\repos\\consoleapp1\\consoleapp1\\mauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{403CA85B-A225-4576-9377-0CE71C80878D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\suli\\code\\c#\\szoftverteszt-projekt\\consoleapp1\\consoleapp1\\mauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{403CA85B-A225-4576-9377-0CE71C80878D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\mauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{403CA85B-A225-4576-9377-0CE71C80878D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\suti\\source\\repos\\consoleapp1\\consoleapp1\\mautofunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{403CA85B-A225-4576-9377-0CE71C80878D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\mautofunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Mauto.cs",
-              "DocumentMoniker": "C:\\Users\\Suti\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Mauto.cs",
+              "DocumentMoniker": "C:\\Suli\\Code\\C#\\Szoftverteszt-projekt\\ConsoleApp1\\ConsoleApp1\\Mauto.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Mauto.cs",
-              "ToolTip": "C:\\Users\\Suti\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Mauto.cs",
+              "ToolTip": "C:\\Suli\\Code\\C#\\Szoftverteszt-projekt\\ConsoleApp1\\ConsoleApp1\\Mauto.cs",
               "RelativeToolTip": "ConsoleApp1\\Mauto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T11:38:43.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MautoFunc.cs",
-              "DocumentMoniker": "C:\\Users\\Suti\\source\\repos\\ConsoleApp1\\ConsoleApp1\\MautoFunc.cs",
+              "DocumentMoniker": "C:\\Suli\\Code\\C#\\Szoftverteszt-projekt\\ConsoleApp1\\ConsoleApp1\\MautoFunc.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\MautoFunc.cs",
-              "ToolTip": "C:\\Users\\Suti\\source\\repos\\ConsoleApp1\\ConsoleApp1\\MautoFunc.cs",
+              "ToolTip": "C:\\Suli\\Code\\C#\\Szoftverteszt-projekt\\ConsoleApp1\\ConsoleApp1\\MautoFunc.cs",
               "RelativeToolTip": "ConsoleApp1\\MautoFunc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T11:37:26.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Suti\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Suli\\Code\\C#\\Szoftverteszt-projekt\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Suti\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Suli\\Code\\C#\\Szoftverteszt-projekt\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T11:36:42.114Z",
               "EditorCaption": ""
