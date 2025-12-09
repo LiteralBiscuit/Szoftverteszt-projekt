@@ -5,65 +5,60 @@ public class UnitTest1
     [Fact]
     public void Test1()
     {
-        //Given
         Mauto mau = new();
         mau.Sebesseg = 120;
-
-        //When
-
-        //Then
         Assert.IsType<int>(mau.Sebesseg);
     }
 
     [Fact]
     public void Test2()
     {
-        //Given
         Mauto mau1 = new();
         Mauto mau2 = new();
-
-        //When
-
-        //Then
         Assert.NotSame(mau1, mau2);
     }
 
     [Fact]
     public void Test3()
     {
-        //Given
         Mauto mau = new();
         string expected = "Black";
         mau.Szin = "Black";
-
-        //When
-
-        //Then
         Assert.Matches(mau.Szin, expected);
     }
 
     [Fact]
     public void Test4()
     {
-        //Given
         Mauto mau = new();
-
-        //When
-
-        //Then
-        Assert.Same(mau, mau);
+        mau.Szin = "Black";
+        Mauto mau2 = new();
+        mau2.Szin = "White";
+        Assert.DoesNotMatch(mau.Szin, mau2.Szin);
     }
 
     [Fact]
     public void Test5()
     {
-        //Given
         Mauto mau = new();
-        mau.Szin = "Black";
+        mau.MozogE = true;
+        Assert.True(mau.MozogE);
+    }
 
-        //When
+    [Fact]
+    public void Test6()
+    {
+        Mauto mau = new();
+        mau.Marka = "Fiat";
+        Assert.NotNull(mau.Marka);
+    }
 
-        //Then
-        Assert.NotEmpty(mau.Szin);
+    [Fact]
+    public void Test7()
+    {
+        int expected = 120;
+        Mauto mau = new();
+        mau.Sebesseg = 120;
+        Assert.Equal(expected, mau.Sebesseg);
     }
 }
