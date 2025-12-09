@@ -1,5 +1,5 @@
 ﻿namespace ConsoleApp1;
-internal class MautoFunc
+public class MautoFunc
 {
     //Konstruktor
     Mauto mau = new Mauto();

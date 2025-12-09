@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XGT6M/JFCqY=",
+  "dgSpecHash": "47j01KykU+M=",
   "success": true,
-  "projectFilePath": "C:\\Suli\\Code\\C#\\Szoftverteszt-projekt\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/user/code/Szoftverteszt-projekt/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.20/microsoft.netcore.app.host.linux-x64.8.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

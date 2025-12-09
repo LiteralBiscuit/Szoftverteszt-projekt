@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Suti\\.nuget\\packages\\": {}
+    "/home/user/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Suli\\Code\\C#\\Szoftverteszt-projekt\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "/home/user/code/Szoftverteszt-projekt/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Suli\\Code\\C#\\Szoftverteszt-projekt\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\Suti\\.nuget\\packages\\",
-      "outputPath": "C:\\Suli\\Code\\C#\\Szoftverteszt-projekt\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectPath": "/home/user/code/Szoftverteszt-projekt/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "packagesPath": "/home/user/.nuget/packages/",
+      "outputPath": "/home/user/code/Szoftverteszt-projekt/ConsoleApp1/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Suti\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/user/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -61,12 +60,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[8.0.20, 8.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
